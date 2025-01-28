@@ -1,29 +1,29 @@
 01. Show architecture of the machine:
-   uname -m
+    uname -m
 
 02. Show CPU info:
-   cat /proc/cpuinfo
+    cat /proc/cpuinfo
 
 03. Show version of the kernel:
-   uname -r
+    uname -r
 
 04. Show system date:
-   date
+    date
 
 05. Set date and time:
-   sudo date -s "YYYY-MM-DD HH:MM:SS"
+    sudo date -s "YYYY-MM-DD HH:MM:SS"
 
 06. Show details of files and directories:
-   ls -l
+    ls -l
 
 07. Show hidden files:
-   ls -la
+    ls -la
 
 08. Show files and directories containing numbers:
-   ls | grep '[0-9]'
+    ls | grep '[0-9]'
 
 09. Create a directory called 'dir1':
-   mkdir dir1
+    mkdir dir1
 
 10. Create two directories simultaneously:
     mkdir dir2 dir3
