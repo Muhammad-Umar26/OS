@@ -1,9 +1,0 @@
-1- The apt-get command is a package management utility for Debian-based Linux systems, allowing users to install, update, upgrade, and remove software packages. It works with system repositories to download and manage dependencies. Examples of common commands are apt-get update (to update the package index) and apt-get install [package] (to install a package).
-
-2- The package management system named Yellowdog Updater, Modified (Yum) maintains RPM-based Linux distributions including CentOS and RHEL. The package management tool automatically fulfills dependencies when carrying out installations updates barrier removals and package management functions.
-
-3- The command-line program wget permits file retrieval through HTTP, HTTPS and FTP protocols. It enables web file downloads with add-on functions that include recursive capabilities and background transfer modes and file resuming features.
-
-4- In Linux environments the commands `tar` function with `gzip` to create compressed archive files. Using the `tar` command allows users to merge multiple files into one archived file which the `gzip` command then compresses for storage optimization. When used in conjunction they produce files with a '.tar.gz' or '.tgz' extension.
-
-5- Linux users employ the `rar` command to make RAR archives and comb and regulate such archive files. The tool enables file compression and adds password security features and generates error correction records. Users typically work with specific functions which involve creating '.rar' files as well as extracting their file contents.
